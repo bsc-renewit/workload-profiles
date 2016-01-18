@@ -1,7 +1,6 @@
-# hpcwl
-HPC Workload Profiles Generator
+# Web Workload Profiles Generator
 
-It parses a SWF file from the [Parallel Workloads Archive](http://www.cs.huji.ac.il/labs/parallel/workload/swf.html) and writes out a csv file called "out.csv".
+It parses an Apache access log file and and writes out a csv file called "out.csv".
 
 Each row of the CSV file has two columns:
 
